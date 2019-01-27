@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+    <meta http-equiv="content-style-type" content="text/css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>***</title>
+</head>
+
+<body>
+    <div id="all">
+
+        <div id="header">
+            <h1>Mikhail Leviathan</h1>
+            <div id="menu">
+                <ul>
+                    <li><a href="top.html">Top</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="mail.html">Mail</a></li>
+                    <li><a href="link.html">Link</a></li>
+                    <li><a href="index.html">Index</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="main">
+            <h2>What's New?</h2>
+            <div class="text1">
+                <textarea cols="60" rows="3" readonly="readonly">
+                    not memo
+                </textarea>
+            </div>
+        </div>
+
+        <div id="footer">
+            Material by <a href="http://www.geocities.jp/alicemmm2004/" target="_blank">Alice Blue</a>? Designed by <a href="http://Mikhail.Leviathan/" target="_blank">Pepe</a>
+        </div>
+
+    </div>?
+</body>
+
+</html>
